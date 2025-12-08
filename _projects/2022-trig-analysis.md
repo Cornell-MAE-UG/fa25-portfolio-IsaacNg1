@@ -2,7 +2,7 @@
 layout: project
 title: Analysis of Functions
 description: Class project with Graphs
-technologies: [MATLAB, python]
+technologies: [MATLAB, Solidworks CAD, ANSYS FEM]
 image: /assets/images/function-graph.png
 ---
 
