@@ -32,7 +32,7 @@ In the image, the max principal stress is given by 23.7ksi because of a stress c
 
 The FEM model found the max deflection at the load point to be 0.265 in which is consistent to the matLAB deflection of 0.2716 in
 
-![Strain Probe]({{ "/assets/images/Strain Probe.jpg" | relative_url }}){: .inline-image-r}
+![Strain Probe]({{ "/assets/images/StrainProbe.jpg" | relative_url }}){: .inline-image-r}
 ![Strain Gauge Results]({{ "/assets/images/StrainGaugeResults.jpg" | relative_url }}){: .inline-image-r}
 
 In the image of the results, the strain in the Normal X-axis is given by 1101.3 microstrain which is consistent with the matLAB value of 1119 microstrain
