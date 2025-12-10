@@ -15,14 +15,14 @@ Components of a Washing Machine Suspension:
     b. Coulomb friction force from the slider rubbing on the foam
 3. Disturbance input from the unbalanced clothes or controller input from applied force
 
-![Shock Absorber within Washing Machine]({{ "/assets/images/SAinWM.jpg" | relative_url }}){: .center-image }
+![Shock Absorber within Washing Machine]({{ "/assets/images/SAinWM.jpg" | relative_url }})
 
 This is how I modeled the shock absorber within the washing machine
 
-![Photo of ODE]({{ "/assets/images/SA-FinalODE.jpg" | relative_url }}){: .center-image }
+![Photo of ODE]({{ "/assets/images/SA-FinalODE.jpg" | relative_url }})
 
 The two state-space models are also different because they come from different physical assumptions about the system. The standard form shown in the second section represents a classic SMD system with viscous damping.
 
 My state space model is based on the washing machine shock absorber with friction and forcing from the unbalanced drum.
 
-![Photo of State Space]({{ "/assets/images/SA-StateSpace.jpg" | relative_url }}){: .center-image }
+![Photo of State Space]({{ "/assets/images/SA-StateSpace.jpg" | relative_url }})
