@@ -16,24 +16,24 @@ The torque wrench was manufactured using Ti-6Al-4V, a widely used aerospace-grad
 
 Here is a diagram of how Loads and Boundary Conditions were applied to my FEM model
 
-![Loads and BC]({{ "/assets/images/Loads_BC.jpg" | relative_url }})
+![Loads and BC]({{ "/assets/images/Loads_BC.jpg" | relative_url }})width="60%"
 
 Here are the normal strain contours from my FEM 
 
-![normalstrain]({{ "/assets/images/NormalStrainContours.jpg" | relative_url }})
+![normalstrain]({{ "/assets/images/NormalStrainContours.jpg" | relative_url }})width="60%"
 
 Here are a summary of results from FEM highlighting Max Normal Stress, Load Point Deflection, and Strains the Strain Gauge Location
 
-![Max Normal Stress]({{ "/assets/images/MaxPrincipalStress.jpg" | relative_url }})
+![Max Normal Stress]({{ "/assets/images/MaxPrincipalStress.jpg" | relative_url }})width="60%"
 
 In the image, the max principal stress is given by 23.7ksi because of a stress concentration on the top plane. Using the probe tool, the max stress found on the normal surface was found to be closer to 18ksi, which is consistent with the MatLAB hand calcs. The MatLAB script found the max normal stress to be 18.02ksi
 
-![Load Point Deflection]({{ "/assets/images/Deformation.jpg" | relative_url }})
+![Load Point Deflection]({{ "/assets/images/Deformation.jpg" | relative_url }})width="60%"
 
 The FEM model found the max deflection at the load point to be 0.265 in which is consistent to the matLAB deflection of 0.2716 in
 
-![Strain Probe]({{ "/assets/images/StrainProbe.jpg" | relative_url }})
-![Strain Gauge Results]({{ "/assets/images/StrainGaugeResults.jpg" | relative_url }})
+![Strain Probe]({{ "/assets/images/StrainProbe.jpg" | relative_url }})width="60%"
+![Strain Gauge Results]({{ "/assets/images/StrainGaugeResults.jpg" | relative_url }})width="60%"
 
 In the image of the results, the strain in the Normal X-axis is given by 1101.3 microstrain which is consistent with the matLAB value of 1119 microstrain
 
@@ -41,8 +41,8 @@ Using the strain obtained from the FEM analysis, the torque-wrench sensitivity w
 
 Here is the strain gauge that I found that would fit within my design:
 
-![Strain Gauge]({{ "/assets/images/straingaugeproduct.jpg" | relative_url }})
-![Strain Gauge Dim]({{ "/assets/images/SGdimensions.jpg" | relative_url }})
+![Strain Gauge]({{ "/assets/images/straingaugeproduct.jpg" | relative_url }})width="60%"
+![Strain Gauge Dim]({{ "/assets/images/SGdimensions.jpg" | relative_url }})width="60%"
 
 
 
