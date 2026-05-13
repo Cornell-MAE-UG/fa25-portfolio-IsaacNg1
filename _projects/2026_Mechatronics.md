@@ -10,7 +10,6 @@ Here are images of my block storing and sweeper mechanisms that were 3D printed
 
 ![CAD]({{ "/assets/images/servoholder.png" | relative_url }}){: width="80%" .center }
 ![CADTopPlane]({{ "/assets/images/TopGuard.png" | relative_url }}){: width="80%" .center }
-![CADRightPlane]({{ "/assets/images/RightPlane.jpg" | relative_url }}){: width="80%" .center }
 
 Mechanically, the robot utilizes the standard “Boe-Bot” chassis with two driven wheels and a rear ball caster for stability. The major addition to the design is the U-shaped 3D-printed block guard that maximizes the robot's range in collecting and storing the cubes and also the servo mechanism, spinning the pipe cleaner attached to the metal rod. The pipe cleaner bristles spin to actively sweep cubes inward and prevent them from escaping. The brush and guard features are both essential for retaining the cubes during aggressive lateral sweeps.
 
